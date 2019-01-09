@@ -18,3 +18,15 @@ code {
   flex-direction: row;
   justify-content: space-around;
 }
+
+.sideBar {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.pageBody {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
